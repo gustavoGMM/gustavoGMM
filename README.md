@@ -1,6 +1,5 @@
 ### <[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&background=16FF6900&center=true&vCenter=true&width=436&lines=hello+my+name+is+gustavo+maia+)](https://git.io/typing-svg)👋
 
-
 **gustavorase/gustavorase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
